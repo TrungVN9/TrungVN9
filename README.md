@@ -1,8 +1,7 @@
 <h2 align="center"> Welcome to Trung GitHub Portfile! </h2>
-<h3 align="center">Hi there 👋, I'm Trung!</h3>
+<h3 align="center">Hi there 👋, I'm <a href="https://trungnvong.netlify.app" target="_blank">Trung N Vong! </a></h3>
 <p align="center">I am a <strong>Computer Science</strong> student at <strong>University of California, Los Angeles </strong> </p>
 <p align="center">I am interested in integrating new technologies to help community a better place</p>
-
 <h2>🏆 Github Profile Trophy</h2>
 <!--
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=TrungVN9&column=9&theme=gruvbox&no-frame=true"/>
